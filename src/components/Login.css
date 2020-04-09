@@ -1,0 +1,15 @@
+.Login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    height: 500px;
+}
+
+.Login-intro-text {
+    font-weight: 600;
+    font-size: 30px;
+    color: white;
+    text-align: justify;
+}
